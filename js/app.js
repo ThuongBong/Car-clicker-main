@@ -5,27 +5,27 @@ const model = {
         {
             clickCount: 0,
             name: 'Audi A4 FWD 2019',
-            imgSrc: '../img/Audi-A4-FWD-2019.jpg',
+            imgSrc: 'img/Audi-A4-FWD-2019.jpg',
         },
         {
             clickCount: 0,
             name: 'BMW 330 RWD Sedan 2019',
-            imgSrc: '../img/BMW-330-RWD-Sedan-2019.jpg',
+            imgSrc: 'img/BMW-330-RWD-Sedan-2019.jpg',
         },
         {
             clickCount: 0,
             name: 'BMW 540d xDrive 2019',
-            imgSrc: '../img/BMW-540d-xDrive-2019.jpg',
+            imgSrc: 'img/BMW-540d-xDrive-2019.jpg',
         },
         {
             clickCount: 0,
             name: 'Jaguar XF 20d Premium Sedan',
-            imgSrc: '../img/Jaguar-XF-20d-Premium-Sedan.jpg',
+            imgSrc: 'img/Jaguar-XF-20d-Premium-Sedan.jpg',
         },
         {
             clickCount: 0,
             name: 'Mercedes-Benz CLA 250 Sedan 2019',
-            imgSrc: '../img/Mercedes-Benz-CLA-250-Sedan-2019.jpg',
+            imgSrc: 'img/Mercedes-Benz-CLA-250-Sedan-2019.jpg',
         },
     ],   
 };
